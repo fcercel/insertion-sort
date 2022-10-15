@@ -1,5 +1,6 @@
 <h1>Merge Sort</h1>
-<a href="https://app.patika.dev/">https://app.patika.dev/</a>
+
+<h1><a href="https://app.patika.dev/">https://app.patika.dev/</a></h1>
 
 
 [16,21,11,8,12,22] -> Merge Sort
