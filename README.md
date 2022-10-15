@@ -1,6 +1,7 @@
-Patika-dev-proje
+<h1>Patika-dev-proje</h1>
 https://app.patika.dev/
 Insertion sort projesi
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 A.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
