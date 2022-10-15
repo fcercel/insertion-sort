@@ -1,5 +1,5 @@
 <h1>Patika-dev-proje</h1>
-<a href="https://app.patika.dev/">https://app.patika.dev/</a>
+<h1><a href="https://app.patika.dev/">https://app.patika.dev/</a></h1>
 <h2>Insertion sort projesi</h2>
 
 [22,27,16,2,18,6] -> Insertion Sort
