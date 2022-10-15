@@ -9,6 +9,7 @@
 Benim root rakamim "5"dir
 
 Bastan baslayarak 5 sayisindan buyuklar saga kucukler sola gececek
+
                                 5                                         
                           1       |      7                                        
                        0  |   3        6 |  8          
